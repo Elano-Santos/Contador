@@ -16,7 +16,7 @@
 
    #counter {
        background-color: #1e293b;
-       padding: 80px;
+       padding: 3rem;/*era padding: 80px; */
        border-radius: 8px;
    }
 
@@ -24,10 +24,10 @@
        display: flex;
        align-items: center;
        justify-content: center;
-       gap: 80px;
+       gap: 3rem; /*era gap: 80px;*/
+       padding: 3rem;/*era padding: 100px; */
+       font-size: 4rem;/*era font-size: 100px; */
        background-color: #0f172a;
-       padding: 100px;
-       font-size: 100px;
        border-radius: 8px;
    }
 
@@ -70,3 +70,5 @@
        background-color: #3b82f6;
        border: none;
    }
+
+   
